@@ -1,7 +1,7 @@
 return {
-	bot_api_key = '', -- هنا توكن 
+	bot_api_key = '493097262:AAFgCMzg1fBLDBFTCDV866YHQBCK3mDvDp0', -- هنا توكن 
 	
-	admin = 113088667, -- هنا ايدي المطور الاساسي
+	admin = 148404099, -- هنا ايدي المطور الاساسي
 	
 	botLUA = {	
 		'jason2.lua',									
